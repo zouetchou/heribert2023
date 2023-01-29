@@ -1,1 +1,7 @@
-
+---
+host: all
+  apt install deamon -y
+  apt install ssh -y
+  apt install .io -y
+  systemclt run deamon
+  systemclt status
